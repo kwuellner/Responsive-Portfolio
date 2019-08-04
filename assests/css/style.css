@@ -109,6 +109,21 @@ footer {
     text-align: center;
 }
 
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 10px;
+    text-align: right;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+    color: white;
+  }
+  
+
 .work {
     width: 274px;
     overflow: auto;
